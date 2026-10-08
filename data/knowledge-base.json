@@ -1,0 +1,313 @@
+{
+  "meta": {
+    "name": "UN Sanctions Evasion - Panel of Experts knowledge base",
+    "version": "1.0",
+    "built": "2026-10-08",
+    "note": "Chunks are short paraphrased summaries prepared from public Panel of Experts / MSMT reports and press coverage of them. They are NOT verbatim quotations. Verify figures against the linked originals before relying on them."
+  },
+  "sources": [
+    {
+      "id": "S0",
+      "title": "Site overview (educational summary)",
+      "symbol": "",
+      "date": "",
+      "url": "panel-of-experts.html",
+      "note": "General background written for this website.",
+      "aliases": "panel experts sanctions committee"
+    },
+    {
+      "id": "DPRK2021",
+      "title": "Panel of Experts on the DPRK - report",
+      "symbol": "S/2021/211",
+      "date": "2021",
+      "url": "https://keia.org/the-peninsula/north-korean-sanctions-evasion-the-un-panel-of-experts-report",
+      "note": "Figures taken from a secondary summary (KEIA), not the UN document itself.",
+      "aliases": "dprk north korea korean pyongyang"
+    },
+    {
+      "id": "DPRK2023",
+      "title": "Panel of Experts on the DPRK - final report (res. 1874)",
+      "symbol": "S/2023/171",
+      "date": "7 March 2023",
+      "url": "https://documents.un.org/doc/undoc/gen/n23/037/94/pdf/n2303794.pdf",
+      "note": "Covers 28 July 2022 to 27 January 2023.",
+      "aliases": "dprk north korea korean pyongyang"
+    },
+    {
+      "id": "DPRK2024",
+      "title": "Panel of Experts on the DPRK - report on cyber activity",
+      "symbol": "S/2024/215",
+      "date": "March 2024",
+      "url": "https://therecord.media/north-korea-cryptocurrency-hacks-un-experts",
+      "note": "Figures taken from press coverage (The Record, CoinDesk) of the March 2024 report; the document symbol is taken from a search-result filename. Check the original.",
+      "aliases": "dprk north korea korean pyongyang"
+    },
+    {
+      "id": "LBY2024",
+      "title": "Panel of Experts on Libya - final report (res. 1973)",
+      "symbol": "S/2024/914",
+      "date": "13 December 2024",
+      "url": "https://documents.un.org/doc/undoc/gen/n24/384/89/pdf/n2438489.pdf",
+      "note": "Covers 18 July 2023 to 25 October 2024.",
+      "aliases": "libya libyan"
+    },
+    {
+      "id": "YEM2025",
+      "title": "Panel of Experts on Yemen - final report (res. 2140)",
+      "symbol": "S/2025/650",
+      "date": "17 October 2025",
+      "url": "https://www.ecoi.net/en/file/local/2132190/n2523409.pdf",
+      "note": "Covers 1 August 2024 to 31 July 2025.",
+      "aliases": "yemen yemeni houthi houthis"
+    },
+    {
+      "id": "MSMT2025",
+      "title": "Multilateral Sanctions Monitoring Team (MSMT) - first report (not a UN body)",
+      "symbol": "",
+      "date": "29 May 2025",
+      "url": "https://www.mofa.go.jp/files/100853978.pdf",
+      "note": "Published by 11 participating states, outside the UN framework.",
+      "aliases": "msmt multilateral sanctions monitoring team dprk north korea russia"
+    }
+  ],
+  "chunks": [
+    {
+      "id": "s0-what-is-panel",
+      "source": "S0",
+      "title": "What a Panel of Experts is",
+      "keywords": "panel of experts group of experts monitoring team definition role committee",
+      "text": "A Panel of Experts is a small team of independent specialists created by a Security Council resolution to help a sanctions committee. It collects, examines and analyses information on how sanctions are implemented and where they are violated. Experts are appointed by the UN Secretary-General and serve in an individual capacity. Panel mandates are time-limited and must be renewed by the Security Council, often every year."
+    },
+    {
+      "id": "s0-panel-tasks",
+      "source": "S0",
+      "title": "What Panels do",
+      "keywords": "investigate report recommend tasks work evidence",
+      "text": "Panels do three connected things: they investigate, they report and they recommend. Investigation draws on field visits, interviews, open-source research, satellite imagery, trade and shipping data and information from governments. Reports go to the sanctions committee, usually as a mid-term update and a final report. Recommendations propose new designations, fixes to legal loopholes and practical steps for states and industry. Panels cannot punish violators; penalties are decided by the Council or applied by member states."
+    },
+    {
+      "id": "s0-dprk-panel-end",
+      "source": "S0",
+      "title": "End of the DPRK Panel of Experts",
+      "keywords": "north korea dprk 1718 committee veto russia disbanded ended 2024 mandate expired renewal",
+      "text": "The Panel of Experts supporting the DPRK (North Korea) sanctions committee was established by resolution 1874 in 2009. Its renewal was vetoed in March 2024 and its mandate ended in April 2024. The 2024 reports cited in this database were among its last work."
+    },
+    {
+      "id": "msmt-intro",
+      "source": "MSMT2025",
+      "title": "The Multilateral Sanctions Monitoring Team",
+      "keywords": "msmt multilateral sanctions monitoring team replacement successor 11 states participating founded october 2024 not un members member countries who which states",
+      "text": "The Multilateral Sanctions Monitoring Team (MSMT) was set up in October 2024 by 11 participating states to monitor and report on implementation of UN sanctions on the DPRK. The states are Australia, Canada, France, Germany, Italy, Japan, the Netherlands, New Zealand, the Republic of Korea, the United Kingdom and the United States. It is not a UN body. Its first report, released on 29 May 2025, focuses on DPRK-Russia military cooperation and draws on information from participating states and open-source organizations. The statement says dialogue on restoring the UN Panel remains open if it is restored to its full prior form."
+    },
+    {
+      "id": "msmt-munitions",
+      "source": "MSMT2025",
+      "title": "DPRK artillery and munitions transfers to Russia",
+      "keywords": "north korea dprk russia shells artillery ammunition containers rounds shipments arms transfer embargo",
+      "text": "According to an MSMT participating state, more than 20,000 containers of munitions and related materiel were transferred from the DPRK to Russia since early September 2023. Up to 9 million rounds of artillery and rocket ammunition were delivered by Russian-flagged cargo vessels in 49 shipments between 1 January and mid-December 2024. The Open Source Centre estimated 4.2 to 5.8 million munitions between August 2023 and March 2025. Transport was first by rail and later by Russian-flagged ships."
+    },
+    {
+      "id": "msmt-missiles",
+      "source": "MSMT2025",
+      "title": "DPRK ballistic missiles used in Ukraine",
+      "keywords": "ballistic missiles hwasong-11 ukraine kharkiv conflict armament research kyiv",
+      "text": "The MSMT report says at least 100 DPRK ballistic missiles were transferred to Russia between January and December 2024 and launched into Ukraine. A Hwasong-11 series missile hit Kharkiv in January 2024; UN Panel experts visited Ukraine in April 2024 and reported on it to the 1718 Committee. Conflict Armament Research documented four more missiles in August 2024, all Hwasong-11A or 11B, one carrying a '113' marking that may indicate 2024 production."
+    },
+    {
+      "id": "msmt-russia-to-dprk",
+      "source": "MSMT2025",
+      "title": "Russian transfers and support to the DPRK",
+      "keywords": "russia to north korea air defense electronic warfare pantsir jamming cargo aircraft technology guidance",
+      "text": "The MSMT report says that since November 2024 Russia is believed to have given the DPRK short-range air defence systems, advanced electronic warfare equipment including jamming gear, and operational know-how, delivered by cargo aircraft. At least one Pantsir-class combat vehicle was transferred. Russia also reportedly provided data feedback on DPRK ballistic missiles, which reportedly improved their guidance performance."
+    },
+    {
+      "id": "msmt-troops",
+      "source": "MSMT2025",
+      "title": "DPRK troop deployment to Russia",
+      "keywords": "soldiers troops deployment kursk training north korea russia acknowledged april 2025",
+      "text": "More than 11,000 DPRK troops were deployed to Russia in late 2024, and an MSMT participating state estimated over 3,000 more between January and March 2025. Combat locations were in Kursk Oblast. Russian forces trained DPRK soldiers in artillery, drone operations and basic infantry skills. Both governments acknowledged the deployment in April 2025, with the DPRK confirming it on 28 April 2025."
+    },
+    {
+      "id": "msmt-ships-aircraft",
+      "source": "MSMT2025",
+      "title": "Vessels and aircraft used in DPRK-Russia transfers",
+      "keywords": "ships vessels angara maria lady r maia-1 rajin port aircraft il-76 an-124 insurance ais tracking off",
+      "text": "The MSMT report names vessels imaged at Rajin port: ANGARA (IMO 9179842), MARIA (IMO 8517839), LADY R (IMO 9161003) and MAIA-1 (IMO 9358010). These vessels lacked recorded P&I insurance, often had tracking switched off for months and often had no recorded inspections in three years. Three Il-76 and three An-124 aircraft operated by Russian military transport units were involved in transfers in November and December 2023."
+    },
+    {
+      "id": "msmt-petroleum-workers-finance",
+      "source": "MSMT2025",
+      "title": "DPRK petroleum, workers and banking (MSMT)",
+      "keywords": "refined petroleum cap 500000 barrels tankers workers labor visas ruble bank south ossetia foreign trade bank kwangson",
+      "text": "On refined petroleum, the UN cap is 500,000 barrels a year, but only about 60 percent of the 2024 cap was reported to the 1718 Committee. Open-source analysis found DPRK tankers arrived at a Russian Far East terminal 43 times between March and October 2024, supplying over one million barrels. The DPRK sought visas for 8,000 workers to Russia in 2024, and the Panel reported more than 100,000 DPRK workers in about 40 countries as of March 2024. Ruble accounts opened in November 2023 at MRB Bank in South Ossetia, Georgia, were used for payments through the UN-designated Foreign Trade Bank and Korea Kwangson Banking Corporation."
+    },
+    {
+      "id": "msmt-facilitators",
+      "source": "MSMT2025",
+      "title": "Facilitators named in the MSMT report",
+      "keywords": "facilitators individuals entities named mkrtychev gazaryan trans kapital rafort budnev tekhnologiya",
+      "text": "The MSMT report names the following facilitators: Ashot Mkrtychev, Rafael Anatolyevich Gazaryan, Trans Kapital LLC, Rafort LLC, Aleksey Budnev and Tekhnologiya OOO."
+    },
+    {
+      "id": "msmt-recommendations",
+      "source": "MSMT2025",
+      "title": "MSMT recommendations",
+      "keywords": "recommendations advice designate screening export controls fatf due diligence maritime inspections fill gap panel",
+      "text": "The MSMT recommends that states raise awareness of DPRK and Russia sanctions evasion, examine the individuals and entities involved, and work in the Security Council and 1718 Committee to designate more people, entities and vessels. It urges stronger screening and export controls under resolution 2270 paragraph 27, closer monitoring of DPRK financial transactions with support for FATF countermeasures and tighter due diligence, full implementation of DPRK resolutions, and public sharing of evasion information to fill the gap left by the Panel's end. It also calls for implementing earlier Panel recommendations, including maritime inspections of DPRK cargo ships reconfigured to carry oil."
+    },
+    {
+      "id": "dprk2023-scope",
+      "source": "DPRK2023",
+      "title": "DPRK Panel final report 2023 - scope",
+      "keywords": "north korea dprk s/2023/171 march 2023 resolution 1874 final report date",
+      "text": "Document S/2023/171, dated 7 March 2023, is the final report of the Panel of Experts established under resolution 1874 (2009) on the DPRK (North Korea). It covers the period 28 July 2022 to 27 January 2023."
+    },
+    {
+      "id": "dprk2023-sts",
+      "source": "DPRK2023",
+      "title": "Ship-to-ship transfers in DPRK waters",
+      "keywords": "ship to ship sts transfer refined petroleum chodo kyong song zhenyangxin exclusive economic zone",
+      "text": "The 2023 report says the DPRK's exclusive economic zone continues to be used for illicit ship-to-ship transfers of refined petroleum (para. 36). In September 2022 the Panel observed a transfer about 14 nautical miles offshore near Ch'o-do Island between the DPRK-flagged Kyong Song 3 and the China-flagged Zhenyangxin (para. 86)."
+    },
+    {
+      "id": "dprk2023-petroleum",
+      "source": "DPRK2023",
+      "title": "Refined petroleum imports vs the cap (2023 report)",
+      "keywords": "oil petroleum cap 500000 barrels nampo deliveries 792383 52 member states reported percent",
+      "text": "By the end of January 2023 one member state had reported 21.06 percent of the 500,000-barrel 2022 refined petroleum cap (para. 32). In October 2022, 52 member states wrote to the Committee estimating that up to 792,383 barrels could have reached Nampo by 31 August 2022, based on 45 deliveries between January and August (para. 33). The estimated range was 264,127.5 to 792,382.5 barrels."
+    },
+    {
+      "id": "dprk2023-coal-ais",
+      "source": "DPRK2023",
+      "title": "Coal exports and tracking-signal manipulation",
+      "keywords": "coal ningbo zhoushan ais transponder spoofing identity tong kang sf bloom direct delivery fraudulent identifiers",
+      "text": "Known DPRK vessels continued to export coal to Ningbo-Zhoushan waters without transmitting an AIS signal (para. 92). The China-flagged Tong Kang broadcast the identifiers of SF Bloom, which let SF Bloom and its cargo reach Nampo without being detected in maritime databases (paras. 74-75). The Panel also reports that 'direct delivery' vessels transmit fraudulent identifiers."
+    },
+    {
+      "id": "dprk2023-vessels",
+      "source": "DPRK2023",
+      "title": "Vessels recommended for designation (2023)",
+      "keywords": "designation vessels 25 rak won 1 sf bloom pu yang heng xing anni new konk unica resolution 2397 paragraph 14",
+      "text": "The Panel recommended 25 vessels for designation. Twenty-one were DPRK-flagged or acquired vessels under paragraph 14 of resolution 2397 (2017), including Rak Won 1 and SF Bloom, also known as Pu Yang 2 (para. 98). It also recommended Heng Xing and Anni (also known as Kyong Song 3) (para. 99) and the 'direct delivery' vessels New Konk and Unica (para. 100)."
+    },
+    {
+      "id": "dprk2023-cyber-workers",
+      "source": "DPRK2023",
+      "title": "Cyber theft and overseas workers (2023 report)",
+      "keywords": "cryptocurrency 2022 record theft overseas workers sweden researcher resolution 2397 paragraph 8 krona",
+      "text": "The 2023 report summary states that DPRK actors stole a higher value of cryptocurrency in 2022 than in any previous year. On overseas workers, it describes a DPRK researcher employed in Sweden earning 34,000 Swedish krona (about $3,281) a month as a violation of paragraph 8 of resolution 2397 (2017); investigations continued (para. 17)."
+    },
+    {
+      "id": "dprk2021-declared-oil",
+      "source": "DPRK2021",
+      "title": "Declared petroleum deliveries in 2020",
+      "keywords": "oil petroleum china russia 2020 reported 5000 tons 12800 tons cap 207000 barrels",
+      "text": "According to a summary of the 2021 Panel report, China reported just over 5,000 tons of refined petroleum delivered to the DPRK in 2020 and Russia reported 12,800 tons. Together that is about 207,000 barrels, which is within the 500,000-barrel annual cap."
+    },
+    {
+      "id": "dprk2021-undeclared-oil",
+      "source": "DPRK2021",
+      "title": "Undeclared petroleum shipments in 2020",
+      "keywords": "undeclared unreported shipments 121 laden 146000 221000 400000 barrels over cap ship to ship dprk flagged vessels underestimate",
+      "text": "The 2021 Panel report said at least 121 additional refined petroleum shipments reached the DPRK in the first nine months of 2020 without being reported to the Committee as resolution 2397 requires. Depending on how full the ships were, estimated undeclared imports were about 146,000 tons (about 1.7 million barrels, over three times the cap) at 33 percent laden, about 221,000 tons (about 2.6 million barrels, nearly five times the cap) at 50 percent, and nearly 400,000 tons (about 4.6 million barrels, over eight times the cap) at 90 percent. Deliveries were mainly by ship-to-ship transfer. The figures reflect only detected activity and likely understate the total."
+    },
+    {
+      "id": "dprk2024-crypto-totals",
+      "source": "DPRK2024",
+      "title": "DPRK cryptocurrency theft totals (2024 report)",
+      "keywords": "crypto cryptocurrency theft hackers cyberattacks 58 3 billion 17 2023 750 million lazarus kimsuky andariel bluenoff reconnaissance general bureau stole stolen steal how much",
+      "text": "The Panel was investigating 58 alleged DPRK cyberattacks on crypto-linked companies between 2017 and 2023, worth about $3 billion. Of these, 17 crypto hacks in 2023 were worth about $750 million. The actors were described as cyberthreat actors subordinate to the Reconnaissance General Bureau, including Kimsuky, Lazarus Group, Andariel and BlueNoroff, with increasing overlap among the groups, which often run joint operations and share infrastructure."
+    },
+    {
+      "id": "dprk2024-crypto-incidents",
+      "source": "DPRK2024",
+      "title": "Examples of 2023 crypto heists under investigation",
+      "keywords": "atomic wallet alphapo poloniex coinex orbit chain jumpcloud supply chain heists million",
+      "text": "Heists the Panel was investigating from 2023 included Atomic Wallet (about $120 million), Alphapo ($110 million), Poloniex ($114 million), CoinEx ($70 million) and Orbit Chain ($81 million). JumpCloud supply-chain attacks enabled two crypto heists totalling about $147.5 million."
+    },
+    {
+      "id": "dprk2024-ransomware-revenue",
+      "source": "DPRK2024",
+      "title": "Ransomware and share of DPRK foreign income",
+      "keywords": "ransomware andariel bitcoin lazarus south korean company 700 victims foreign currency income 50 percent weapons funding prolific cyber thief",
+      "text": "Andariel-linked hackers stole about $360,000 in bitcoin through ransomware attacks on three companies, and Lazarus-linked actors worked with a South Korean company on ransomware that collected about $2.6 million in recovery costs from more than 700 victims. Press coverage of the report says it estimates the DPRK gets roughly 50 percent of its foreign currency income from cyberattacks, which funds its weapons programmes, and calls the country the world's most prolific cyber-thief."
+    },
+    {
+      "id": "dprk2024-laundering-panel",
+      "source": "DPRK2024",
+      "title": "Laundering and attacks on the Panel itself",
+      "keywords": "laundering launder stolen funds tornado cash spearphishing kimsuky panel member targeted sanctions evasion",
+      "text": "The Panel said states must find ways to limit the methods DPRK actors use to launder stolen funds. It also reported that a Panel member was likely targeted in 2023 by persistent spearphishing from Kimsuky, and stated that such attacks against the Panel and the Committee amount to sanctions evasion."
+    },
+    {
+      "id": "lby-scope",
+      "source": "LBY2024",
+      "title": "Libya Panel final report 2024 - scope",
+      "keywords": "libya s/2024/914 december 2024 resolution 1973 final report period 299 pages",
+      "text": "Document S/2024/914, dated 13 December 2024 (letter dated 6 December 2024), is the final report of the Panel of Experts on Libya established under resolution 1973 (2011). It covers 18 July 2023 to 25 October 2024 and runs 299 pages."
+    },
+    {
+      "id": "lby-arms",
+      "source": "LBY2024",
+      "title": "Libya arms embargo violations",
+      "keywords": "libya arms embargo violations military training turkiye turkey cargo flights bayraktar akinci misratah naval vessels air rifles customs seized resolution 1970 paragraph 9",
+      "text": "The Libya Panel identified 34 incidents of arms and related materiel transfers and 18 cases of military training in violation of paragraph 9 of resolution 1970 (2011). Turkiye delivered 14 military training sessions to Libyan armed actors and the United States 2. The Panel queried 40 military cargo flights and found five member states in violation of paragraph 9. A Turkish Bayraktar Akinci combat drone was identified at Misratah airbase on 31 March 2024, and foreign armed naval vessels entering Libya more than doubled compared with the previous period. In September 2023 Libyan customs seized 820 Gamo air rifles with 430 boxes of ammunition and 500 concealed hunting rifles."
+    },
+    {
+      "id": "lby-diesel",
+      "source": "LBY2024",
+      "title": "Illicit diesel and oil exports from Libya",
+      "keywords": "diesel smuggling illicit petroleum benghazi old harbour 450000 tons 185 exports 1.125 million general electric company of libya crude private oil company 460 million illicit fuel smuggled",
+      "text": "Networks exported about 450,000 tons of diesel from the Benghazi old harbour. The Panel identified 185 illicit diesel exports from that harbour since March 2022, totalling an estimated 1.125 million tons. The General Electric Company of Libya was the main source of the surplus diesel used in the illicit exports. The first private Libyan oil company has exported crude valued at around $460 million since May 2024."
+    },
+    {
+      "id": "lby-vessels",
+      "source": "LBY2024",
+      "title": "Vessel transfers to eastern Libya",
+      "keywords": "vessels patrol boats ocea mv o7 gaja tubruq laaf tariq bin ziyad amro ibrahim bbc alaska benghazi rigid hulled inflatable asis belgian",
+      "text": "The MV O7 Gaja arrived at Tubruq on 15 November 2023 carrying two armed OCEA 110 MKII fast patrol boats. Customs seized them, but the Panel found the seizure was ordered by LAAF command and the Tariq bin Ziyad brigade later incorporated the boats as naval assets. Amro Ibrahim was responsible for transferring 3 naval-type and 44 dual-use vessels to Benghazi. Two former Belgian police patrol vessels reached Benghazi between January and March 2023, and six vessels arrived on 7-8 March 2024 aboard the MV BBC Alaska. Of 41 ASIS rigid-hulled inflatable boats exported, five were armed after delivery."
+    },
+    {
+      "id": "yem-scope",
+      "source": "YEM2025",
+      "title": "Yemen Panel final report 2025 - scope and limits",
+      "keywords": "yemen s/2025/650 october 2025 resolution 2140 final report arms expert houthi access letters replies",
+      "text": "Document S/2025/650 is the final report of the Panel of Experts on Yemen under resolution 2140 (2014), transmitted on 15 October 2025 and dated 17 October 2025. It covers 1 August 2024 to 31 July 2025. No arms expert had been appointed, so its arms analysis is partial. The Panel could not access Houthi-controlled areas or establish official contact with the Houthi authorities, and 63 percent of its 87 letters had no reply as of 15 August 2025."
+    },
+    {
+      "id": "yem-dhow",
+      "source": "YEM2025",
+      "title": "June 2025 dhow seizure",
+      "keywords": "dhow seizure 750 tonnes june 2025 djibouti houthi missiles iranian ghadir shahed am-50 sayyad misagh manpads farsi manuals weapons smuggled",
+      "text": "In June 2025 Yemeni forces seized more than 750 tonnes of ammunition and hardware from a dhow sailing from Djibouti to Houthi-controlled ports. It included cruise, anti-ship and anti-aircraft missiles resembling Iranian-made systems such as the Ghadir, Shahed drone, AM-50 Sayyad and Misagh MANPADS, together with Farsi manuals."
+    },
+    {
+      "id": "yem-concealment",
+      "source": "YEM2025",
+      "title": "Concealed shipments of Houthi components",
+      "keywords": "mislabelled declared school supplies fabrics ais devices spectrum analysers uav engines pixhawk flight controllers aden shanghai container djibouti inspection drones gps modules concealment hidden hide concealed weapons shipments smuggled mislabeled",
+      "text": "On 25 November 2024 a container declared as school supplies from China held undeclared AIS devices, spectrum analysers and voltage converters. On 17 January 2025 customs seized five DLE drone engines, five Pixhawk V5+ flight controllers and 10 walkie-talkies declared as fabrics. On 23 July 2025 a major Aden seizure of rerouted cargo from Shanghai included a thermal camera, sensor connectors and carbon fibre fabric, with a consignee reportedly a known Houthi operative. In May 2025 a UN inspection in Djibouti found drones, drone components and GPS modules in two of four China-origin containers bound for Hudaydah."
+    },
+    {
+      "id": "yem-routes",
+      "source": "YEM2025",
+      "title": "Shipping and land routes into Yemen",
+      "keywords": "aden port traffic rerouting hudaydah strikes bab al-mandab explosives land routes oman shahn sarfayt mahrah carbon fibre routes",
+      "text": "Aden port traffic rose from 187 vessels (January-June 2024) to 265 (January-June 2025), and cargo from 920,394 to 1,266,896 tonnes, which the Panel links to rerouting after strikes on Hudaydah port. In January 2025 explosives, detonators and detonating cords shipped via Djibouti were seized in the Bab al-Mandab strait. Land routes through the Shahn and Sarfayt crossings with Oman carry drone components, and carbon fibre was seized in Mahrah on 5 September 2024."
+    },
+    {
+      "id": "yem-somalia",
+      "source": "YEM2025",
+      "title": "Somalia as a transit hub for Houthi supplies",
+      "keywords": "somalia transit hub dhow qandala alula ras asir hadramawt shabwah al-shabaab training hizbullah facilitators",
+      "text": "The Panel found the Houthis have diversified their supply chains regionally and internationally, using Somalia as a transit hub. Weapons move by dhow from locations including Qandala, Alula and Ras Asir to Hadramawt and Shabwah. Officials hold a list of 13 individuals under surveillance or arrest. Somali authorities reportedly investigated around 70 Al-Shabaab-affiliated nationals, and about 400 Somalis reportedly travelled to Houthi areas for training. Confidential sources reported Hizbullah missile and drone operatives remain in Houthi areas."
+    },
+    {
+      "id": "yem-finance",
+      "source": "YEM2025",
+      "title": "Houthi revenue and the asset freeze",
+      "keywords": "finance revenue telecom asset freeze yemenia airways yemen gulf bank tobacco extortion rials money",
+      "text": "The Panel found implementation of the asset freeze limited. Houthi revenue comes from taxes, extortion, seizure of companies and control of telecoms, where estimated monthly international call revenue is about $20 million and sector revenue about 150 billion rials (about $92 million). Yemenia Airways reported $120 million frozen by the Houthis as of 1 August 2024, Yemen Gulf Bank was seized in July 2025, and a late-June 2025 tobacco consignment from the UAE reportedly meant to fund the Houthis was under Government investigation."
+    }
+  ]
+}

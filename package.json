@@ -1,0 +1,11 @@
+{
+  "name": "un-sanctions-evasion",
+  "version": "1.1.0",
+  "private": true,
+  "description": "UN Sanctions Evasion website with a closed-circuit RAG chat over Panel of Experts reports",
+  "scripts": {
+    "start": "node server/server.js",
+    "build-kb": "node scripts/build-kb.js"
+  },
+  "engines": { "node": ">=18" }
+}

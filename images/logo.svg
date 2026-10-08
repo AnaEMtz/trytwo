@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Shield with magnifying glass">
+  <path d="M32 4 L56 14 V32 C56 46 46 56 32 60 C18 56 8 46 8 32 V14 Z" fill="#16213a" stroke="#38bdf8" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="29" cy="29" r="10" fill="none" stroke="#f59e0b" stroke-width="3.5"/>
+  <line x1="36.5" y1="36.5" x2="45" y2="45" stroke="#f59e0b" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="Diagram of layered front and shell companies obscuring who is behind a financial transaction">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14213d"/><stop offset="1" stop-color="#0b1220"/></linearGradient>
+    <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#f59e0b"/></marker>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#2a3b5e" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  <rect width="800" height="500" fill="url(#grid)" opacity=".35"/>
+
+  <!-- links -->
+  <g fill="none" stroke="#f59e0b" stroke-width="3" stroke-dasharray="9 7" marker-end="url(#arr)">
+    <path d="M210 235 C 235 235 225 125 245 125"/>
+    <path d="M210 245 L245 250"/>
+    <path d="M210 255 C 235 255 225 375 245 375"/>
+    <path d="M405 125 C 500 125 500 225 595 235"/>
+    <path d="M405 250 L595 245"/>
+    <path d="M405 375 C 500 375 500 265 595 255"/>
+  </g>
+
+  <!-- boxes -->
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700" fill="#e6ebf5" text-anchor="middle">
+    <rect x="40" y="195" width="170" height="100" rx="14" fill="#16213a" stroke="#f87171" stroke-width="3"/>
+    <text x="125" y="240">Sanctioned</text><text x="125" y="264">party</text>
+
+    <rect x="245" y="90" width="160" height="70" rx="12" fill="#16213a" stroke="#38bdf8" stroke-width="2"/>
+    <text x="325" y="131">Front company</text>
+
+    <rect x="245" y="215" width="160" height="70" rx="12" fill="#16213a" stroke="#38bdf8" stroke-width="2"/>
+    <text x="325" y="256">Shell company</text>
+
+    <rect x="245" y="340" width="160" height="70" rx="12" fill="#16213a" stroke="#38bdf8" stroke-width="2"/>
+    <text x="325" y="381">Intermediary</text>
+
+    <rect x="595" y="195" width="170" height="100" rx="14" fill="#16213a" stroke="#38bdf8" stroke-width="3"/>
+    <text x="680" y="240">Foreign bank</text><text x="680" y="264">&amp; buyer</text>
+  </g>
+
+  <!-- coins -->
+  <g fill="#f59e0b" stroke="#16213a" stroke-width="2">
+    <circle cx="510" cy="175" r="14"/><circle cx="535" cy="320" r="14"/><circle cx="470" cy="268" r="14"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="800" fill="#16213a" text-anchor="middle">
+    <text x="510" y="181">$</text><text x="535" y="326">$</text><text x="470" y="274">$</text>
+  </g>
+
+  <text x="400" y="463" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#9aa8c4" letter-spacing="2">LAYERS OF OWNERSHIP OBSCURE THE TRUE ORIGIN</text>
+</svg>
